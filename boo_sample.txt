@@ -1,0 +1,13 @@
+{
+HowIsBoo
+1 Boo is [Adjective] [Var] [Var] today
+}
+
+{
+Adjective
+4 happy
+}
+{
+Var
+4 happy
+}
